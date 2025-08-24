@@ -9,3 +9,7 @@ Hello everyone, I am from Vietnam, and I’m excited to share a project I’m wo
 
 ## 📝Photo of mod
 ![Ảnh về mod](https://i.ibb.co/s9vp1pk7/0a982c45618d6f618ea618a8e4a30bb2373605f1.png)
+
+## 📥 Downloads
+
+The latest stable release of Sodium can be downloaded from our official [Curseforge](https://www.curseforge.com/minecraft/mc-mods/twovn) pages
