@@ -12,4 +12,4 @@ Chào mọi người, mình đến từ Việt Nam, mình tên là Tài sinh nă
 
 ## 📥 TẢI MOD
 
-BẠN CÓ THỂ TẢI MOD CỦA TÔI TẠI ĐÂY [Curseforge](https://www.curseforge.com/minecraft/mc-mods/twovn) pages
+BẠN CÓ THỂ TẢI MOD CỦA TÔI TẠI ĐÂY [Curseforge](https://www.curseforge.com/minecraft/mc-mods/twovn)
