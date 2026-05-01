@@ -10,7 +10,7 @@ Phiên bản đầu tiên của mod được sử dụng Mod Loaders là Forge 1
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@yametekudasai7209)
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]([https://web.facebook.com/gvhjjewskbv])
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://web.facebook.com/gvhjjewskbv)
 
 ## 📝ẢNH VỀ MOD
 ![Ảnh về mod](https://i.ibb.co/s9vp1pk7/0a982c45618d6f618ea618a8e4a30bb2373605f1.png)
