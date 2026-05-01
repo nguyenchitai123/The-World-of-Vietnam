@@ -12,8 +12,14 @@ Phiên bản đầu tiên của mod được sử dụng Mod Loaders là Forge 1
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://web.facebook.com/gvhjjewskbv)
 
-## 📝ẢNH VỀ MOD
+## 📝ẢNH VỀ MOD VÀ 🎮 MỘT SỐ CHỨC NĂNG TIÊU BIỂU
+### Xe máy
 ![Ảnh về mod](https://i.ibb.co/s9vp1pk7/0a982c45618d6f618ea618a8e4a30bb2373605f1.png)
+### Dân làng nói chuyện
+Ảnh mô tả âm thanh dân làng sẽ nói
+
+![Minecraft Villager](https://i.ibb.co/NdQsMnC4/Chat-GPT-Image-20-25-04-1-thg-5-2026.png)
+
 
 ## 📥 TẢI MOD
 
